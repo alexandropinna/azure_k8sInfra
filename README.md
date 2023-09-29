@@ -52,3 +52,7 @@ To use this configuration, follow these steps:
 ## Conclusion
 
 This Terraform configuration provides a template for creating a set of interconnected resources in Azure, including a Kubernetes cluster, SQL Server, and Cosmos DB PostgreSQL cluster. Customize the variables and configurations to suit the specific needs of your project.
+
+## Author
+
+- Alejandro Piña ([email](mailto:alexander.pinna@protonmail.com))
